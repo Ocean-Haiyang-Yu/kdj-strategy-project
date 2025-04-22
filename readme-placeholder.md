@@ -109,8 +109,8 @@ This project fulfills the requirements for the UCLA Anderson MGMTMFE 412 Final G
 [MIT License](LICENSE)
 
 ## Author
-[Your Name]
+Haiyang Yu
 
 ## Acknowledgements
 - UCLA Anderson School of Management
-- Financial data provided by [Data Source]
+- Financial data provided by YahooFinance
