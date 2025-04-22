@@ -1,0 +1,32 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.cpython-39.pyc
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*-checkpoint.ipynb
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Data files - customize if needed
+# *.csv
+# *.xlsx
+
+# Results and logs
+# results/
+# logs/
